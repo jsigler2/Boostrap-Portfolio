@@ -1,0 +1,12 @@
+nav {
+    margin-bottom: 40px;
+}
+
+.media {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.media img {
+    border: 2px solid darkgrey; 
+}
